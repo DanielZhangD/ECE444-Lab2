@@ -14,3 +14,7 @@ If you wish to look at my git repo during this activity, please look at this: ht
 ![Alt text](image-3.png)
 ![Alt text](image-4.png)
 (that says ugly as sin! not anything else!)
+
+#### Activity 4
+![Alt text](image-5.png)
+![Alt text](image-6.png)
